@@ -1,5 +1,5 @@
-Ordinary Website
-Overview: This is a user-friendly website that showcases web design and development services, enhancing the online presence for potential clients.
+Overview: 
+This is a user-friendly website that showcases web design and development services, enhancing the online presence for potential clients.
 
 
 Key Features:
@@ -9,5 +9,5 @@ Service Presentation: Highlighted various services offered, providing detailed d
 
 
 Technologies Used:
-HTML, CSS, JavaScript for front-end development.
-Frameworks ,libraries (Bootstrap for responsive design).
+HTML, CSS, JavaScript.
+Frameworks , libraries (Bootstrap for responsive design).
